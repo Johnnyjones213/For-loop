@@ -1,0 +1,13 @@
+C:\Users\Shyanne\Repos\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.exe
+C:\Users\Shyanne\Repos\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.deps.json
+C:\Users\Shyanne\Repos\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.runtimeconfig.json
+C:\Users\Shyanne\Repos\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.runtimeconfig.dev.json
+C:\Users\Shyanne\Repos\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.dll
+C:\Users\Shyanne\Repos\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.pdb
+C:\Users\Shyanne\Repos\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.csprojAssemblyReference.cache
+C:\Users\Shyanne\Repos\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.AssemblyInfoInputs.cache
+C:\Users\Shyanne\Repos\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.AssemblyInfo.cs
+C:\Users\Shyanne\Repos\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.csproj.CoreCompileInputs.cache
+C:\Users\Shyanne\Repos\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.dll
+C:\Users\Shyanne\Repos\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.pdb
+C:\Users\Shyanne\Repos\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.genruntimeconfig.cache
